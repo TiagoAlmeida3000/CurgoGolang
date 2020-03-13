@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	"github.com/TiagoAlmeida3000/cursogo2/fundamentos/2pacotes/operadora"
-	"github.com/TiagoAlmeida3000/cursogo2/fundamentos/2pacotes/prefixo"
+	"github.com/TiagoAlmeida3000/cursogo2/1fundamentos/2pacotes/operadora"
+	"github.com/TiagoAlmeida3000/cursogo2/1fundamentos/2pacotes/prefixo"
 )
 
 //NomeDoUsuario é o nome do usuario do sistema

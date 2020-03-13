@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/TiagoAlmeida3000/cursogo2/fundamentos/6struct2/model"
+	"github.com/TiagoAlmeida3000/cursogo2/1fundamentos/6struct2/model"
 )
 
 func main() {

@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 
-	"github.com/TiagoAlmeida3000/cursogo2/fundamentos/3funcoes/matematica"
+	"github.com/TiagoAlmeida3000/cursogo2/1fundamentos/3funcoes/matematica"
 )
 
 func main() {
